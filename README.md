@@ -1,11 +1,4 @@
 # Introduction to Databases and SQL Querying
 
-This repository contains notes and examples on database fundamentals and SQL queries.  
-Topics include:
-- Database basics
-- Table creation
-- CRUD operations
-- Joins
-- Constraints
-- Subqueries
-  
+This repository contains my personal notes on Databases and SQL Querying and examples.
+It is intended for quick reference and learning.
